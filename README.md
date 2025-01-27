@@ -33,7 +33,7 @@ Before running the bot, make sure you have:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Galkurta/LayerEdge-BOT.git
+git clone https://github.com/TesnetD/LayerEdge-BOT.git
 ```
 
 2. Navigate to the project directory:
